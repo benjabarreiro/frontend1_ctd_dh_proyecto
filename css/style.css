@@ -1,0 +1,35 @@
+*, html {
+	margin: 0;
+	padding: 0;
+}
+body {
+	color: #ffffff;
+	font-family: Roboto;
+}
+
+.menu1 {
+	background-color: #222222;
+	padding-left: 200px;
+}
+
+.big-sales {
+	margin-right: 700px;
+}
+
+.selector {
+	display: inline;
+}
+
+select {
+	background-color: transparent;
+	border: none;
+	color: #ffffff;
+}
+
+.menu2 {
+	background-color: #F0A83E;
+}
+
+.logo {
+	width: 166.38px;
+}
